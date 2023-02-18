@@ -1,7 +1,9 @@
-baseURL = "https://visualcomputing.github.io/showcase"
+baseURL = "https://jdsolanos.github.io/showcase"
 languageCode = "en-us"
 title = "Showcase Template"
 theme = 'book'
+
+staticDir = ['static']
 
 # Book configuration
 disablePathToLower = true
